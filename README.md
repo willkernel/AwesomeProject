@@ -1,8 +1,6 @@
 ## React-Native
 [the basic examples of the official docs](https://facebook.github.io/react-native/docs/getting-started.html) and the [High Five](https://facebook.github.io/react-native/docs/more-resources.html#content)
 
-**Install Package > search code format > Install nuclide-format-js > use ctrl+shift+c to format code**
-
 **AppRegistry**
 **StyleSheet**
 **Text**
