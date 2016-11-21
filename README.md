@@ -14,5 +14,5 @@
 **Network**
 **[Movie Fectcher](https://facebook.github.io/react-native/releases/0.27/docs/sample-application-movies.html)**
 
-![screengif](https://github.com/willkernel/AwesomeProject/blob/gif/screen.gif)
-![screengif](https://github.com/willkernel/AwesomeProject/blob/gif/movies.gif)
+![screengif](https://raw.githubusercontent.com/willkernel/AwesomeProject/master/gif/screen.gif)
+![screengif](https://raw.githubusercontent.com/willkernel/AwesomeProject/master/gif/movies.gif)
